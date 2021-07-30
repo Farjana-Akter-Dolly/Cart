@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cart{
+   width: 330px;
+   margin: 50px auto;
+   height: 520px;
+   box-shadow: 1px 2px 4px black;
+   background-color: black;
+}
+.img{
+    width: 100%;
+    padding: 5px;
+}
+.cart-tytle{
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+.cart-desc{
+    padding: 10px 20px;
+    text-align: justify;
+    color: white;
+}
+.cart-body{
+    background-color: navy;
+}
+.img-2{
+    width: 99%;
+    padding: 10px;
+}
